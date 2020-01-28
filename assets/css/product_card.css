@@ -1,0 +1,66 @@
+.card_outer {
+  box-shadow: none;
+}
+.card_outer:hover {
+  box-shadow: 0 17px 17px 0 rgba(0, 0, 0, 0.15);
+}
+
+.card_category{
+  /* text-transform: uppercase; */
+  color: #52535a;
+  font-family: "Lato Medium";
+  position: absolute;
+  bottom: 10px;
+  left: 40px;
+}
+.card_category span{
+  text-transform: uppercase;
+  color: #999;
+  font-family: "Lato Medium";
+}
+.product_card {
+  margin: 20px 3% 20px 0px;
+  background: #fff;
+  box-shadow: 0px 0px 10px 0px #ddd;
+  padding: 30px 40px 50px 40px;
+  box-sizing: border-box;
+  -webkit-transition: all 0.8s;
+  -moz-transition: all 0.8s;
+  -ms-transition: all 0.8s;
+  -o-transition: all 0.8s;
+  transition: all 0.8s;
+  cursor: pointer;
+  position: relative;
+  display: block;
+}
+.product_card:hover {
+  box-shadow: 0px 3px 10px 1px #ddd;
+  -webkit-transform: translateY(-5px);
+  -moz-transform: translateY(-5px);
+  -ms-transform: translateY(-5px);
+  -o-transform: translateY(-5px);
+  transform: translateY(-5px);
+}
+.product_card .icon  {
+  width: 100px;
+  height: 100px;
+  background: no-repeat center;
+  background-size: contain;
+  /* box-shadow: 0 6px 12px rgba(0, 0, 0, 0.05), 0 10px 20px rgba(0, 0, 0, 0.10);
+  border-radius: 50%; */
+}
+
+.product_card h3 {
+  text-transform: uppercase;
+  color: #191919;
+  font-family: "Lato Heavy";
+  margin: 20px 0px 10px;
+}
+
+.product_card p {
+  color: #999;
+  font-size: 15px;
+  text-align: left;
+  line-height: 25px;
+  font-family: "Lato Light";
+}
