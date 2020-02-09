@@ -19,7 +19,7 @@
   /* For demo */
   .ant-carousel >>> .slick-slide {
     text-align: center;
-    height: 100%;
+    height: 100vh;
     margin-top: 10px;
     overflow: hidden;
   }

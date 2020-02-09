@@ -2,10 +2,11 @@
   <div>
     <a-layout-header
       :style="{ position: 'fixed', zIndex: 1,
-      width: '100%',
-      background: '#FFF',
-      transition: 'background-color 0.4s ease-out'}">
-      <navigation-bar/>
+                width: '100%',
+                background: '#FFF',
+                transition: 'background-color 0.4s ease-out'}"
+    >
+      <navigation-bar />
     </a-layout-header>
     <a-layout-content>
       <nuxt />
@@ -13,7 +14,8 @@
     <a-layout-footer class="footer_section">
       <reach-us-form />
       <section>
-        <div class="copyright_wrap">© Huduma Plus 2020. All Rights Reserved.
+        <div class="copyright_wrap">
+          © Huduma Plus 2020. All Rights Reserved.
         </div>
       </section>
     </a-layout-footer>
@@ -30,8 +32,23 @@
   }
 </script>
 <style>
+  html {
+    display: block;
+    margin: 0;
+    padding: 0;
+  }
+  body html {
+    overflow: visible;
+    height: initial;
+  }
   body {
+    margin: 0px;
     font-family: "Lato Medium";
+    overflow: hidden;
+    font-max-size: 14px;
+    line-height: 20px;
+    color: #333333;
+    text-shadow: none;
   }
   .footer_section {
     position: relative;
