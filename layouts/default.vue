@@ -44,7 +44,6 @@
   body {
     margin: 0px;
     font-family: "Lato Medium";
-    overflow: hidden;
     font-max-size: 14px;
     line-height: 20px;
     color: #333333;
