@@ -1,28 +1,39 @@
 <template>
   <section class="section industries_section">
-    <h2 class="slideInUp">Our Focus</h2>
+    <h2 class="slideInUp">
+      Our Focus
+    </h2>
+    <p>
+      We're a full-service software provider offering product development and digital transformation services to
+      Governments, and Businesses, through data-driven solutions for mobile, cloud, and web platforms.
+      Native Application Development
+      <a-button class="huduma-red-button">
+        KNOW MORE
+        <a-icon type="ellipsis"/>
+      </a-button>
+    </p>
     <a-row>
       <a-col :xs="24" :sm="24" :md="12" :lg="8" :xl="8">
-        <service-card />
+        <service-card/>
       </a-col>
       <a-col :xs="24" :sm="24" :md="12" :lg="8" :xl="8">
-        <service-card />
+        <service-card/>
       </a-col>
       <a-col :xs="24" :sm="24" :md="12" :lg="8" :xl="8">
-        <service-card />
+        <service-card/>
       </a-col>
     </a-row>
   </section>
 </template>
 
 <script>
-    import ServiceCard from '../ServiceComponents/ServiceCard'
+  import ServiceCard from '../ServiceComponents/ServiceCard'
 
-    export default {
-        components: {
-           ServiceCard
-        }
+  export default {
+    components: {
+      ServiceCard
     }
+  }
 </script>
 
 <style scoped>
@@ -34,6 +45,7 @@
     box-sizing: border-box;
     height: auto;
   }
+
   .section {
     padding: 20px 80px 20px 80px;
     /*padding: 50px 10px;*/
@@ -58,6 +70,7 @@
     margin-inline-end: 0px;
     font-weight: bolder;
   }
+
   @media only screen and (max-width: 595px) {
     .industries_section h2 {
       font-size: 65px;
@@ -100,5 +113,83 @@
     cursor: pointer;
     position: relative;
     display: block;
+  }
+
+  .huduma-red-button {
+    background: #ef0d33 !important;
+    border: none;
+    box-shadow: none;
+    height: 35px;
+    color: #fff;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: small;
+    outline: none;
+    background-position: right;
+    background-repeat: no-repeat;
+  }
+
+  @media only screen and (max-width: 768px) {
+    .industries_section p {
+      color: #585858;
+      position: absolute;
+      line-height: 24px;
+      top: 14%;
+      padding: 0 5% 0 90px;
+    }
+  }
+
+  @media only screen and (max-width: 900px) {
+    .industries_section p {
+      padding-left: 120px;
+      color: #585858;
+      position: absolute;
+      line-height: 27px;
+      top: 14%;
+      padding: 0 10% 0 90px;
+    }
+  }
+
+  @media only screen and (max-width: 1024px) {
+    .industries_section p {
+      color: #585858;
+      position: absolute;
+      line-height: 27px;
+      top: 15%;
+      padding: 0 20% 0 150px;
+    }
+  }
+
+  @media only screen and (max-height: 700px) {
+    .industries_section p {
+      top: 18.5%;
+      font-size: 12px;
+      line-height: 24px;
+    }
+  }
+
+  @media only screen and (max-width: 1220px) {
+    .industries_section p {
+      top: 18%;
+      font-size: 12px;
+      line-height: 24px;
+      padding: 0 3% 0 150px;
+    }
+  }
+
+  @media only screen and (max-width: 1450px) {
+    .industries_section p {
+      top: 20%;
+      font-size: 12px;
+    }
+
+    .industries_section p {
+      padding-left: 120px;
+      color: #585858;
+      position: absolute;
+      line-height: 27px;
+      top: 24%;
+      padding: 0 25% 0 150px;
+    }
   }
 </style>
