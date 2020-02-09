@@ -134,18 +134,13 @@
   @media only screen and (max-width: 768px) {
     .industries_section p {
       color: #585858;
-      position: absolute;
       line-height: 24px;
-      top: 14%;
-      padding: 0 5% 0 90px;
     }
   }
 
   @media only screen and (max-width: 900px) {
     .industries_section p {
-      padding-left: 120px;
       color: #585858;
-      position: absolute;
       line-height: 27px;
     }
   }
@@ -153,7 +148,6 @@
   @media only screen and (max-width: 1024px) {
     .industries_section p {
       color: #585858;
-      position: absolute;
       line-height: 27px;
     }
   }
@@ -178,9 +172,7 @@
     }
 
     .industries_section p {
-      padding-left: 120px;
       color: #585858;
-      position: absolute;
       line-height: 27px;
     }
   }
