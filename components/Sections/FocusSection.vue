@@ -9,19 +9,19 @@
       Native Application Development
       <a-button class="huduma-red-button">
         KNOW MORE
-        <a-icon type="ellipsis"/>
+        <a-icon type="ellipsis" />
       </a-button>
     </p>
     <div>
       <a-row>
         <a-col :xs="24" :sm="24" :md="12" :lg="8" :xl="8">
-          <service-card/>
+          <service-card />
         </a-col>
         <a-col :xs="24" :sm="24" :md="12" :lg="8" :xl="8">
-          <service-card/>
+          <service-card />
         </a-col>
         <a-col :xs="24" :sm="24" :md="12" :lg="8" :xl="8">
-          <service-card/>
+          <service-card />
         </a-col>
       </a-row>
     </div>
@@ -170,10 +170,10 @@
     .industries_section p {
       font-size: 12px;
     }
+  }
 
-    .industries_section p {
-      color: #585858;
-      line-height: 27px;
-    }
+  .industries_section p {
+    color: #585858;
+    line-height: 27px;
   }
 </style>
