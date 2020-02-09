@@ -46,7 +46,7 @@
       </a-menu-item>
       <a-menu-item key='careers'>
         <nuxt-link to="/careers">
-          <a-icon type='mail'/>
+          <a-icon type='file-search'/>
           Careers
         </nuxt-link>
       </a-menu-item>
