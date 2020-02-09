@@ -12,17 +12,19 @@
         <a-icon type="ellipsis"/>
       </a-button>
     </p>
-    <a-row>
-      <a-col :xs="24" :sm="24" :md="12" :lg="8" :xl="8">
-        <service-card/>
-      </a-col>
-      <a-col :xs="24" :sm="24" :md="12" :lg="8" :xl="8">
-        <service-card/>
-      </a-col>
-      <a-col :xs="24" :sm="24" :md="12" :lg="8" :xl="8">
-        <service-card/>
-      </a-col>
-    </a-row>
+    <div>
+      <a-row>
+        <a-col :xs="24" :sm="24" :md="12" :lg="8" :xl="8">
+          <service-card/>
+        </a-col>
+        <a-col :xs="24" :sm="24" :md="12" :lg="8" :xl="8">
+          <service-card/>
+        </a-col>
+        <a-col :xs="24" :sm="24" :md="12" :lg="8" :xl="8">
+          <service-card/>
+        </a-col>
+      </a-row>
+    </div>
   </section>
 </template>
 
@@ -145,8 +147,6 @@
       color: #585858;
       position: absolute;
       line-height: 27px;
-      top: 14%;
-      padding: 0 10% 0 90px;
     }
   }
 
@@ -155,14 +155,11 @@
       color: #585858;
       position: absolute;
       line-height: 27px;
-      top: 15%;
-      padding: 0 20% 0 150px;
     }
   }
 
   @media only screen and (max-height: 700px) {
     .industries_section p {
-      top: 18.5%;
       font-size: 12px;
       line-height: 24px;
     }
@@ -170,16 +167,13 @@
 
   @media only screen and (max-width: 1220px) {
     .industries_section p {
-      top: 18%;
       font-size: 12px;
-      line-height: 24px;
-      padding: 0 3% 0 150px;
+      line-height: 24px
     }
   }
 
   @media only screen and (max-width: 1450px) {
     .industries_section p {
-      top: 20%;
       font-size: 12px;
     }
 
@@ -188,8 +182,6 @@
       color: #585858;
       position: absolute;
       line-height: 27px;
-      top: 24%;
-      padding: 0 25% 0 150px;
     }
   }
 </style>
