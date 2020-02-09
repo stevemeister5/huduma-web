@@ -60,7 +60,7 @@
     color: #585858;
     background-image: url(https://accubits.com/wp-content/themes/accubits/images/slider1_bg.jpg.pagespeed.ce.EL5UyCDvPn.jpg);
     background-size: cover;
-    height: 100%;
+    height: 100vh;
     width: 100%;
     left: 100%;
     font-family: montserrat_bold, sans-serif;
