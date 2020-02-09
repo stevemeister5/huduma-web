@@ -20,28 +20,34 @@
           Services
         </nuxt-link>
       </a-menu-item>
-      <a-menu-item key="products">
-        <nuxt-link to="/products">
-          <a-icon type='appstore'/>
-          Products
-        </nuxt-link>
-      </a-menu-item>
-      <a-menu-item key="case">
-        <nuxt-link to="/case_studies">
-          <a-icon type='trophy'/>
-          Case study
-        </nuxt-link>
-      </a-menu-item>
-      <a-menu-item key="industry">
-        <nuxt-link to="/industries">
-          <a-icon type='branches'/>
-          Industries
-        </nuxt-link>
-      </a-menu-item>
+<!--      <a-menu-item key="products">-->
+<!--        <nuxt-link to="/products">-->
+<!--          <a-icon type='appstore'/>-->
+<!--          Products-->
+<!--        </nuxt-link>-->
+<!--      </a-menu-item>-->
+<!--      <a-menu-item key="case">-->
+<!--        <nuxt-link to="/case_studies">-->
+<!--          <a-icon type='trophy'/>-->
+<!--          Case study-->
+<!--        </nuxt-link>-->
+<!--      </a-menu-item>-->
+<!--      <a-menu-item key="industry">-->
+<!--        <nuxt-link to="/industries">-->
+<!--          <a-icon type='branches'/>-->
+<!--          Industries-->
+<!--        </nuxt-link>-->
+<!--      </a-menu-item>-->
       <a-menu-item key='contact'>
         <nuxt-link to="/contact_us">
           <a-icon type='mail'/>
           Contact Us
+        </nuxt-link>
+      </a-menu-item>
+      <a-menu-item key='careers'>
+        <nuxt-link to="/careers">
+          <a-icon type='mail'/>
+          Careers
         </nuxt-link>
       </a-menu-item>
     </a-menu>
