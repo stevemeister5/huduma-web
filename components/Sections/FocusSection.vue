@@ -6,11 +6,13 @@
     <p>
       We're a full-service software provider offering product development and digital transformation services to
       Governments, and Businesses, through data-driven solutions for mobile, cloud, and web platforms.
-      Native Application Development
-      <a-button class="huduma-red-button">
-        KNOW MORE
-        <a-icon type="ellipsis" />
-      </a-button>
+      Native Application Development.
+      <span>
+        <a-button class="huduma-red-button">
+          KNOW MORE
+          <a-icon type="ellipsis" />
+        </a-button>
+      </span>
     </p>
     <div>
       <a-row>
