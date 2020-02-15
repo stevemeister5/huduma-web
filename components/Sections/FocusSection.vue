@@ -1,13 +1,15 @@
 <template>
   <section class="section industries_section">
     <h2 class="slideInUp">
-      Our Focus
+      About Us
     </h2>
     <p>
-      We're a full-service software provider offering product development and digital transformation services to
-      Governments, and Businesses, through data-driven solutions for mobile, cloud, and web platforms.
-      Native Application Development.
-      <br />
+      We have created the Next-Generation sustainable Outer Space Network. Cheers! Hudumanet is the new IoT to the Outer Space.
+      As a participant partner of the United Nations Global Compact and with our Advisory partner the Astronomy and Space Science Association of Tanzania,
+      we have created a next generation sustainable Outer Space Network enabling a Global Satellites communication called HUDUMANET,
+      powered by an antenna which is planned to be launched to the International Space Station (ISS) to provide an infrastructure in which satellites from different institutions with different missions to share information with each other at low cost and with small system resources for global real-time coverage,
+      such that anytime anywhere on Earth to be accessible..
+      <br>
       <a-button class="huduma-red-button">
         KNOW MORE
         <a-icon type="ellipsis" />
