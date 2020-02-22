@@ -2,50 +2,51 @@
   <div class="slide">
     <div class="welcome_message">
       <h2>
+        We have created the Next-Generation sustainable Outer Space Network.
+        Cheers! <br><span>  Hudumanet is the new IoT to the Outer Space.</span>
         Your technology partner for<br>
-        <span>Product Development</span> and
-        <span>Digital  <br>Transformation</span>
       </h2>
       <p class="sub_title">
         Huduma Plus is trusted by big and small enterprises, and amazing startups around the
         Nation to accelerate their business with cutting-edge technology and solutions.
       </p>
-      <a-button class="huduma-red-button"> LETS TALK
-        <a-icon type="phone"/>
+      <a-button class="huduma-red-button">
+        LETS TALK
+        <a-icon type="phone" />
       </a-button>
     </div>
     <div class="slide_anim">
       <div class="triangle_wrap triangle_black">
         <div class="triangle">
-          <div class="triangle_inner"></div>
+          <div class="triangle_inner" />
         </div>
       </div>
-      <div class="equation_behind"></div>
-      <div class="equation2_behind"></div>
-      <div class="equation_front"></div>
-      <div class="slide_img"></div>
-      <div class="triangle" id="triangle1">
-        <div class="triangle_inner"></div>
+      <div class="equation_behind" />
+      <div class="equation2_behind" />
+      <div class="equation_front" />
+      <div class="slide_img" />
+      <div id="triangle1" class="triangle">
+        <div class="triangle_inner" />
       </div>
-      <div class="triangle" id="triangle2">
-        <div class="triangle_inner"></div>
+      <div id="triangle2" class="triangle">
+        <div class="triangle_inner" />
       </div>
-      <div class="triangle" id="triangle3">
-        <div class="triangle_inner"></div>
+      <div id="triangle3" class="triangle">
+        <div class="triangle_inner" />
       </div>
-      <div class="triangle" id="triangle4">
-        <div class="triangle_inner"></div>
+      <div id="triangle4" class="triangle">
+        <div class="triangle_inner" />
       </div>
-      <div class="triangle" id="triangle5">
-        <div class="triangle_inner"></div>
+      <div id="triangle5" class="triangle">
+        <div class="triangle_inner" />
       </div>
-      <div class="triangle" id="triangle6">
-        <div class="triangle_inner"></div>
+      <div id="triangle6" class="triangle">
+        <div class="triangle_inner" />
       </div>
-      <div class="anim_line" id="line1"></div>
-      <div class="anim_line" id="line2"></div>
-      <div class="anim_line" id="line3"></div>
-      <div class="anim_line" id="line4"></div>
+      <div id="line1" class="anim_line" />
+      <div id="line2" class="anim_line" />
+      <div id="line3" class="anim_line" />
+      <div id="line4" class="anim_line" />
     </div>
   </div>
 </template>
