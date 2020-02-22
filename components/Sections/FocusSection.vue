@@ -86,8 +86,9 @@
     </div>
     <div>
       <h2>
-        Our Corporate Social Responsibilities (CSRs) – Sustainable City Project.
+        Corporate Social Responsibilities (CSRs)
       </h2>
+      <h4>Our Corporate Social Responsibilities (CSRs) – Sustainable City Project.</h4>
       <p>
         As Part of our Commitment as a Participant Partner of the United Nations Global Compact (UNGC) to advance the ambitions of the Sustainable Development Goals by 2030, We have partnered with XsenseAI Company Limited as our technical partner and we are in cooperation with the Tanzania’s Prime Ministers’ Office ( Investments ) in an initiative called ‘Sustainable City Project’ which is our CSR’s strategic focus to deliver on the 2030 Agenda for Sustainable Development, by helping Tanzania to advance connectivity and efficiency of public services delivery through the use of Artificial Intelligence Technology.
         The urgency to reach the Sustainable Development Goals by 2030 requires every one of us, we are helping government entities of Tanzania to find more innovative approaches for delivering effective, efficient and fair public services. We believe that artificial intelligence (AI) offer new opportunities to reimagine how the public sector can better serve sustainable development needs. Artificial Intelligence has a potential to transform the traditional way of doing things across all government functions and domains hence we are all on this together to help out. Cheers!
