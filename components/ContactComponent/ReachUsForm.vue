@@ -1,8 +1,7 @@
 <template>
   <section class="huduma-form footer_section">
     <div class="footer_head">
-      <h2>Let's start working</h2>
-      <p>Connect with us to know how we can transform your business with our future proof solutions.</p>
+      <h2>Contact us</h2>
     </div>
     <a-form>
       <a-row class="form-row" justify="space-between">

@@ -14,12 +14,12 @@
           Home
         </nuxt-link>
       </a-menu-item>
-      <a-menu-item key="service">
-        <nuxt-link to="/services">
-          <a-icon type='rocket'/>
-          Services
-        </nuxt-link>
-      </a-menu-item>
+<!--      <a-menu-item key="service">-->
+<!--        <nuxt-link to="/services">-->
+<!--          <a-icon type='rocket'/>-->
+<!--          Services-->
+<!--        </nuxt-link>-->
+<!--      </a-menu-item>-->
 <!--      <a-menu-item key="products">-->
 <!--        <nuxt-link to="/products">-->
 <!--          <a-icon type='appstore'/>-->
@@ -38,18 +38,18 @@
 <!--          Industries-->
 <!--        </nuxt-link>-->
 <!--      </a-menu-item>-->
-      <a-menu-item key='contact'>
-        <nuxt-link to="/contact_us">
-          <a-icon type='mail'/>
-          Contact Us
-        </nuxt-link>
-      </a-menu-item>
-      <a-menu-item key='careers'>
-        <nuxt-link to="/careers">
-          <a-icon type='file-search'/>
-          Careers
-        </nuxt-link>
-      </a-menu-item>
+<!--      <a-menu-item key='contact'>-->
+<!--        <nuxt-link to="/contact_us">-->
+<!--          <a-icon type='mail'/>-->
+<!--          Contact Us-->
+<!--        </nuxt-link>-->
+<!--      </a-menu-item>-->
+<!--      <a-menu-item key='careers'>-->
+<!--        <nuxt-link to="/careers">-->
+<!--          <a-icon type='file-search'/>-->
+<!--          Careers-->
+<!--        </nuxt-link>-->
+<!--      </a-menu-item>-->
     </a-menu>
   </div>
 </template>

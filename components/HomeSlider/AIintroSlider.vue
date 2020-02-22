@@ -58,7 +58,7 @@
   @import '../../assets/css/anim.css';
   .slide {
     color: #585858;
-    background-image: url(https://accubits.com/wp-content/themes/accubits/images/slider1_bg.jpg.pagespeed.ce.EL5UyCDvPn.jpg);
+    background-image: url(https://res.cloudinary.com/intelecs/image/upload/v1582371254/huduma/word_from_the_CEO.jpg);
     background-size: cover;
     height: 100vh;
     width: 100%;
