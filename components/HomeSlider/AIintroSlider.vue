@@ -4,12 +4,7 @@
       <h2>
         We have created the Next-Generation sustainable Outer Space Network.
         Cheers! <br><span>  Hudumanet is the new IoT to the Outer Space.</span>
-        Your technology partner for<br>
       </h2>
-      <p class="sub_title">
-        Huduma Plus is trusted by big and small enterprises, and amazing startups around the
-        Nation to accelerate their business with cutting-edge technology and solutions.
-      </p>
       <a-button class="huduma-red-button">
         LETS TALK
         <a-icon type="phone" />
