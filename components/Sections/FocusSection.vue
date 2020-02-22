@@ -86,7 +86,7 @@
     </div>
     <div>
       <h2>
-        Corporate Social Responsibilities (CSRs)
+        Corporate Social Responsibilities
       </h2>
       <h4>Our Corporate Social Responsibilities (CSRs) – Sustainable City Project.</h4>
       <p>
