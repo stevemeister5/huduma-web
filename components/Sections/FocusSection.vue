@@ -94,6 +94,16 @@
         The urgency to reach the Sustainable Development Goals by 2030 requires every one of us, we are helping government entities of Tanzania to find more innovative approaches for delivering effective, efficient and fair public services. We believe that artificial intelligence (AI) offer new opportunities to reimagine how the public sector can better serve sustainable development needs. Artificial Intelligence has a potential to transform the traditional way of doing things across all government functions and domains hence we are all on this together to help out. Cheers!
       </p>
     </div>
+
+    <h2>
+      Careers - Join us
+    </h2>
+    <p>
+      We don’t believe in the term ‘employees, employer and bosses ‘, we believe in the term ‘dream mates and leaders’, we also believe that we are the engine, and we need more talented people to keep the engine turning, so we need you.
+      This mission is too big for any individual person, it is a mission for all of us working together supporting the impacts we see through the Outer Space Economy, joining us is a great chance to do the best for your career, yourself and others, of course the World in general and the future generation.
+      We are on a mission – If you believe you are who we are looking for, we don’t stop recruiting talents. Welcome to join us;
+      Tell us why we need you based on what you can add to our Mission, reach us through this email: Info@hudumaplus.com
+    </p>
   </section>
 </template>
 
