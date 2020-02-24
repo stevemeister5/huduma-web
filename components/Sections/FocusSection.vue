@@ -15,7 +15,7 @@
         Cheers! ANGANET is the new IoT to the LEO Outer Space.
       </p>
       <p>
-        <strong>Current Situation; </strong>To build a full global coverage satellite constellation in LEO alone takes about 10 years and costs about $10 billion (Starlink costs-SpaceX, feb,2018) which proves to be a very expensive for a single institution to handle.
+        <strong>Problem; </strong>To build a full global coverage satellite constellation in LEO alone takes about 10 years and costs about $10 billion (Starlink costs-SpaceX, feb,2018) which proves to be a very expensive for a single institution to handle.
       </p>
       <p>
         <strong>
@@ -61,10 +61,6 @@
     <h2 class="slideInUp">
       Our Team
     </h2>
-    <p>
-      We don’t believe in the term ‘employees, employer and bosses ‘, we believe in the term ‘dream mates and leaders’, we also believe that we are the engine, and we need more talented people to keep the engine turning, so we need you.
-      This mission is too big for any individual person, it is a mission for all of us working together supporting the impacts we see through the Outer Space Economy, joining us is a great chance to do the best for your career, yourself and others, of course the World in general and the future generation.
-    </p>
     <div>
       <a-row>
         <a-col
@@ -102,7 +98,7 @@
       We don’t believe in the term ‘employees, employer and bosses ‘, we believe in the term ‘dream mates and leaders’, we also believe that we are the engine, and we need more talented people to keep the engine turning, so we need you.
       This mission is too big for any individual person, it is a mission for all of us working together supporting the impacts we see through the Outer Space Economy, joining us is a great chance to do the best for your career, yourself and others, of course the World in general and the future generation.
       We are on a mission – If you believe you are who we are looking for, we don’t stop recruiting talents. Welcome to join us;
-      Tell us why we need you based on what you can add to our Mission, reach us through this email: Info@hudumaplus.com
+      Tell us why we need you based on what you can add to our Mission
     </p>
   </section>
 </template>
