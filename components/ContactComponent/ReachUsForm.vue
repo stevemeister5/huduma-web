@@ -3,7 +3,7 @@
     <div class="footer_head">
       <h2>Contact us</h2>
     </div>
-    <a-form>
+    <!--<a-form>
       <a-row class="form-row" justify="space-between">
         <a-col
           class="forn_margin"
@@ -81,8 +81,7 @@
           </a-button>
         </a-col>
       </a-row>
-
-    </a-form>
+    </a-form> -->
   </section>
 </template>
 
