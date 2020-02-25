@@ -1,1 +1,1 @@
-web: nuxt start
+worker: nuxt start
